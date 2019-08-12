@@ -1,2 +1,8 @@
 ### projects ###
 src/
+
+### ENV ###
+.env
+
+### projects ###
+logs/
