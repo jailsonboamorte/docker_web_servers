@@ -2,7 +2,7 @@
 src/
 
 ### ENV ###
-.env
+*.env
 
-### projects ###
+### LOGS ###
 logs/
